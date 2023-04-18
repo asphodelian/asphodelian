@@ -1,9 +1,9 @@
 ## Gabrielle Salamanca
-Welcome to @asphodelian github! Hope you enjoy your stay as you peruse my repos ✨
+Welcome to the @asphodelian github! Hope you enjoy your stay as you peruse my repos ✨
+Currently a stats major planning to dive into data analytics and more.
 
 ## About Me
-Fast Facts
-- 🧑‍💻 I'm a stats major with a science emphasis 
+- 🧑‍💻 My emphasis is in science 
 - ▶️ Most current repo: Tableau-HW 📊
 - ⏺️ Upcoming repo: M449-Project
 - 🎨 Hobby artist 
