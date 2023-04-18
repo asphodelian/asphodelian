@@ -6,14 +6,14 @@ Currently a soon-to-be graduating stats major planning to dive into data analyti
 
 ## About Me
 - ♦️ They/them
-- 🧑‍💻 My emphasis is in science 
-- ▶️ Most current work: Tableau-HW 📊
+- 🧑‍💻 Major emphasis is in science 
+- ▶️ Most current work: Tableau Public 📊
 - ⏺️ Upcoming repo: M449-Project
 - 🎨 Hobby artist 
 
 ## Where to Find Me
 - [data.world](https://data.world/asphodelian)
-- [Tableau](https://public.tableau.com/app/profile/gabrielle.salamanca)
+- [Tableau Public](https://public.tableau.com/app/profile/gabrielle.salamanca)
 
 <!---
 asphodelian/asphodelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
