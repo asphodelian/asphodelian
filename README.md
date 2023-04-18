@@ -7,7 +7,7 @@ Currently a soon-to-be graduating stats major planning to dive into data analyti
 ## About Me
 - ♦️ They/them
 - 🧑‍💻 My emphasis is in science 
-- ▶️ Most current repo: Tableau-HW 📊
+- ▶️ Most current work: Tableau-HW 📊
 - ⏺️ Upcoming repo: M449-Project
 - 🎨 Hobby artist 
 
