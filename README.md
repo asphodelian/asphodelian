@@ -11,6 +11,9 @@ Currently a soon-to-be graduating stats major planning to dive into data analyti
 - ⏺️ Upcoming repo: M449-Project
 - 🎨 Hobby artist 
 
+## Where to Find Me
+Tableau(https://public.tableau.com/app/profile/gabrielle.salamanca)
+
 <!---
 asphodelian/asphodelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
