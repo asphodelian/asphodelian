@@ -12,7 +12,7 @@ Currently a soon-to-be graduating stats major planning to dive into data analyti
 - 🎨 Hobby artist 
 
 ## Where to Find Me
-Tableau(https://public.tableau.com/app/profile/gabrielle.salamanca)
+[Tableau](https://public.tableau.com/app/profile/gabrielle.salamanca)
 
 <!---
 asphodelian/asphodelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
