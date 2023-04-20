@@ -16,7 +16,7 @@ Currently a soon-to-be graduating stats major planning to dive into data analyti
 - [Tableau Public](https://public.tableau.com/app/profile/gabrielle.salamanca)
 
 # Thank you for Visiting!
-![Minimoji](https://user-images.githubusercontent.com/125179245/233227529-bc37f228-25a0-4874-98f9-2e4d33301187.png)
+![Minimoji Resize](https://user-images.githubusercontent.com/125179245/233227921-f5b167e9-bb84-4383-a577-6c32a25eb260.png)
 
 <!---
 asphodelian/asphodelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
