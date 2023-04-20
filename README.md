@@ -1,4 +1,3 @@
-![Minimoji](https://user-images.githubusercontent.com/125179245/233227529-bc37f228-25a0-4874-98f9-2e4d33301187.png)
 ![welcome sign](https://user-images.githubusercontent.com/125179245/232682841-8da86327-7bc5-4c5c-a8c5-ba44fd04f424.png)
 ## Gabrielle Salamanca
 
@@ -15,6 +14,9 @@ Currently a soon-to-be graduating stats major planning to dive into data analyti
 ## Where to Find Me
 - [data.world](https://data.world/asphodelian)
 - [Tableau Public](https://public.tableau.com/app/profile/gabrielle.salamanca)
+
+# Thank you for Visiting!
+![Minimoji](https://user-images.githubusercontent.com/125179245/233227529-bc37f228-25a0-4874-98f9-2e4d33301187.png)
 
 <!---
 asphodelian/asphodelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
