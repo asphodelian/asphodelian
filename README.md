@@ -7,7 +7,8 @@ Currently a soon-to-be graduating stats major planning to dive into data analyti
 ## About Me
 - ♦️ They/them
 - 🧑‍💻 Major emphasis is in science 
-- ▶️ Most current work: EDA-Lab 📊
+- ▶️ Most current solo work: EDA-Lab 📊
+- 🤝Current collab: We-R-Finished ⌛
 - ⏺️ Upcoming repo: M449-Project
 - 🎨 Hobby artist 
 
