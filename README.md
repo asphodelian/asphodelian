@@ -7,7 +7,7 @@ Currently a soon-to-be graduating stats major planning to dive into data analyti
 ## About Me
 - ♦️ They/them
 - 🧑‍💻 Major emphasis is in science 
-- ▶️ Most current work: Tableau Public 📊
+- ▶️ Most current work: EDA-Lab 📊
 - ⏺️ Upcoming repo: M449-Project
 - 🎨 Hobby artist 
 
