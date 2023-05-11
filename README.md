@@ -18,6 +18,9 @@ Maybe, with all the data in the world, I can tell you all a cohesive story about
 - [data.world](https://data.world/asphodelian)
 - [Tableau Public](https://public.tableau.com/app/profile/gabrielle.salamanca)
 
+## Note
+Please do not use my artwork featured on this page for any AI or NFTs! I also do not condone any theft
+
 ## Thank you for Visiting!
 ![Minimoji Resize](https://user-images.githubusercontent.com/125179245/233227921-f5b167e9-bb84-4383-a577-6c32a25eb260.png)
 
