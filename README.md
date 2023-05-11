@@ -16,7 +16,7 @@ Currently a soon-to-be graduating stats major planning to dive into data analyti
 - [data.world](https://data.world/asphodelian)
 - [Tableau Public](https://public.tableau.com/app/profile/gabrielle.salamanca)
 
-# Thank you for Visiting!
+## Thank you for Visiting!
 ![Minimoji Resize](https://user-images.githubusercontent.com/125179245/233227921-f5b167e9-bb84-4383-a577-6c32a25eb260.png)
 
 <!---
