@@ -17,7 +17,7 @@
 <h2 align = "center"> Where to Find Me </h2>
 
 <div class = "container">
- <ul style = "list-style-type:none">
+ <ul class = "myUL">
   <li> <a href = "https://data.world/asphodelian"> data.world </a> </li>
   <li> <a href = "https://public.tableau.com/app/profile/gabrielle.salamanca"> Tableau Public </a> </li>
  </ul>
