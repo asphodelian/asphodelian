@@ -15,9 +15,13 @@
 <p align = "center"> 🎨 Hobby artist </p>
 
 <h2 align = "center"> Where to Find Me </h2>
+
+ <ul style="list-style-type:none">
+                      <li><i class="fas fa-star text-primary"></i> Worked at a bar for a little while</li>
+
 - [data.world](https://data.world/asphodelian)
 - [Tableau Public](https://public.tableau.com/app/profile/gabrielle.salamanca)
-
+</ul>
 <h2 align = "center"> Note </h2>
 <p align="center">
 Please do not use my artwork featured on this page for any AI or NFTs! 
