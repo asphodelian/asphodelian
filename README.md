@@ -21,6 +21,8 @@
 <h2 align = "center"> Note </h2>
 <p align="center">
 Please do not use my artwork featured on this page for any AI or NFTs! 
+</p>
+<p align="center">
 I also do not condone any theft or retracing of my artwork.
 </p>
 
