@@ -32,8 +32,8 @@ I also do not condone any theft or retracing of my artwork.
 </p>
 
 <h2 align = "center"> Thank you for visiting! </h2>
-![Minimoji Resize](https://user-images.githubusercontent.com/125179245/233227921-f5b167e9-bb84-4383-a577-6c32a25eb260.png)
 
+ <img src="IMG_6219.png.jpg" alt= "minimoji" class="center"> 
 
 
 <!---
