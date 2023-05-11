@@ -23,7 +23,10 @@ Please do not use my artwork featured on this page for any AI or NFTs!
 I also do not condone any theft or retracing of my artwork.
 
 ## Thank you for Visiting!
+<p align = "center">
 ![Minimoji Resize](https://user-images.githubusercontent.com/125179245/233227921-f5b167e9-bb84-4383-a577-6c32a25eb260.png)
+</p>
+
 
 <!---
 asphodelian/asphodelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
