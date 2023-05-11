@@ -17,8 +17,8 @@
 <h2 align = "center"> Where to Find Me </h2>
 
 <ul style="list-style-type:none">
- <li> [data.world](https://data.world/asphodelian)</li>
- <li>[Tableau Public](https://public.tableau.com/app/profile/gabrielle.salamanca)</li>
+ <li> <a href = "https://data.world/asphodelian"> data.world </a> </li>
+ <li>[<a href = "https://public.tableau.com/app/profile/gabrielle.salamanca"> Tableau Public </a> </li>
 </ul>
 
 <h2 align = "center"> Note </h2>
