@@ -18,7 +18,7 @@ Maybe, with all the data in the world, I can tell you all a cohesive story about
 - [data.world](https://data.world/asphodelian)
 - [Tableau Public](https://public.tableau.com/app/profile/gabrielle.salamanca)
 
-<\h2 align = "center"> Note <\h2>
+<h2 align = "center"> Note </h2>
 <p align="center">
 Please do not use my artwork featured on this page for any AI or NFTs! 
 I also do not condone any theft or retracing of my artwork.
