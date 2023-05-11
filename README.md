@@ -1,20 +1,20 @@
 ![welcome sign](https://user-images.githubusercontent.com/125179245/232682841-8da86327-7bc5-4c5c-a8c5-ba44fd04f424.png)
-## Gabrielle Salamanca
+<h2 align = "center"> Gabrielle Salamanca </h2>
 
 <p>Welcome to the @asphodelian github! Hope you enjoy your stay as you peruse my repos.</p>
 <p>Currently a soon-to-be graduating stats major planning to dive into data analytics and more!</p> 
 <p>At most, I am a creative person, a storyteller and artist.</p> 
 </p>Maybe, with all the data in the world, I can tell you all a cohesive story about it all.</p>
 
-## About Me
-- ♦️ They/she
-- 🧑‍💻 Major emphasis: science 
-- ▶️ Most current solo work: EDA-Lab 📊
-- 🤝 Current collab: We-R-Finished ⌛
-- ⏺️ Upcoming repo: M449-Project
-- 🎨 Hobby artist 
+<h2 align = "center"> About Me </h2>
+<p align = "center"> ♦️ They/she </p>
+<p align = "center"> 🧑‍💻 Major emphasis: science </p>
+<p align = "center"> ▶️ Most current solo work: EDA-Lab 📊 </p>
+<p align = "center"> 🤝 Current collab: We-R-Finished ⌛ </p>
+<p align = "center"> ⏺️ Upcoming repo: M449-Project </p>
+<p align = "center"> 🎨 Hobby artist </p>
 
-## Where to Find Me
+<h2 align = "center"> Where to Find Me </h2>
 - [data.world](https://data.world/asphodelian)
 - [Tableau Public](https://public.tableau.com/app/profile/gabrielle.salamanca)
 
@@ -22,7 +22,7 @@
 <p align="center">
 Please do not use my artwork featured on this page for any AI or NFTs! 
 </p>
-<p align="center">
+<p align = "center">
 I also do not condone any theft or retracing of my artwork.
 </p>
 
