@@ -7,7 +7,7 @@ At most, I am a creative person, a storyteller and artist.
 Maybe, with all the data in the world, I can tell you all a cohesive story about it all.
 
 ## About Me
-- ♦️ They/them
+- ♦️ They/she
 - 🧑‍💻 Major emphasis: science 
 - ▶️ Most current solo work: EDA-Lab 📊
 - 🤝 Current collab: We-R-Finished ⌛
