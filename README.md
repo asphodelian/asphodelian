@@ -33,7 +33,7 @@ I also do not condone any theft or retracing of my artwork.
 
 <h2 align = "center"> Thank you for visiting! </h2>
 
- <img src="Self Portraits/updated minimoji.png" alt="thanks!" class="center"/> 
+ <img src="Self Portraits/updated minimoji.png" class="center"/> 
 
 
 <!---
