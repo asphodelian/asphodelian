@@ -7,12 +7,12 @@
 <p align = "center"> Maybe, with all the data in the world, I can tell you all a cohesive story about it all.</p>
 
 <h2 align = "center"> About Me </h2>
-<p align = "center"> ♦️ They/she </p>
-<p align = "center"> 🧑‍💻 Major emphasis: science </p>
+<p align = "center"> ♦️ They/she ♦️ </p>
+<p align = "center"> 🧑‍💻 Major emphasis: science 🧑‍💻 </p>
 <p align = "center"> ▶️ Most current solo work: EDA-Lab 📊 </p>
 <p align = "center"> 🤝 Current collab: We-R-Finished ⌛ </p>
-<p align = "center"> ⏺️ Upcoming repo: M449-Project </p>
-<p align = "center"> 🎨 Hobby artist </p>
+<p align = "center"> ⏺️ Upcoming repo: M449-Project ⏺️ </p>
+<p align = "center"> 🎨 Hobby artist 🎨 </p>
 
 <h2 align = "center"> Where to Find Me </h2>
 
@@ -33,7 +33,7 @@ I also do not condone any theft or retracing of my artwork.
 
 <h2 align = "center"> Thank you for visiting! </h2>
 
- <img src="IMG_6219.png.jpg" alt= "minimoji" class="center"> 
+ <img src="file:///D:/Art/Me/updated%20minimoji.png" alt= "minimoji" class="center"> 
 
 
 <!---
