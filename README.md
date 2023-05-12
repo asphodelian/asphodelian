@@ -33,9 +33,9 @@ I also do not condone any theft or retracing of my artwork.
 
 <h2 align = "center"> Thank you for visiting! </h2>
 
-![updated minimoji](https://github.com/asphodelian/asphodelian/assets/125179245/6466868f-fcf7-4d71-865d-399d95f1d359)
-
-
+<p align = "center"> 
+![200px minimoji](https://github.com/asphodelian/asphodelian/assets/125179245/062327e7-75bc-4d05-b79c-e14db29be433)
+</p>
 
 <!---
 asphodelian/asphodelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
