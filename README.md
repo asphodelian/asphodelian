@@ -33,7 +33,7 @@ I also do not condone any theft or retracing of my artwork.
 
 <h2 align = "center"> Thank you for visiting! </h2>
 
-<img width= "460" height="300" src="Self Portraits/200px minimoji.png">
+<img width= "460" height="300" src="/Artwork-Images/Self Portraits/200px minimoji.png">
 
 <!---
 asphodelian/asphodelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
