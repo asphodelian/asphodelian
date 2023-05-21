@@ -8,10 +8,11 @@
 
 <h2 align = "center"> ~About Me~ </h2>
 <p align = "center"> ♦️ They/she ♦️ </p>
-<p align = "center"> 🧑‍💻 Major emphasis: science 🧑‍💻 </p>
+<p align = "center"> 📈 Degree: B.S. Statistics 📉 </p>
+<p align = "center"> 🧑‍💻 Emphasis: Science 🧑‍💻 </p>
 <p align = "center"> ▶️ Most current solo work: EDA-Lab 📊 </p>
 <p align = "center"> 🤝 Current collab: We-R-Finished ⌛ </p>
-<p align = "center"> ⏺️ Upcoming repo: M449-Project ⏺️ </p>
+<p align = "center"> ⏺️ Upcoming repo: TBD ⏺️ </p>
 <p align = "center"> 🎨 Hobby artist 🎨 </p>
 
 <h2 align = "center"> ~Where to Find Me~ </h2>
