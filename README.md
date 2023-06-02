@@ -2,9 +2,9 @@
 <h2 align = "center"> ~Gabrielle Salamanca~ </h2>
 
 <p align = "center"> Welcome to the @asphodelian github! Hope you enjoy your stay as you peruse my repos.</p>
-<p align = "center"> Currently a soon-to-be graduating stats major planning to dive into data analytics and more!</p> 
+<p align = "center"> Currently a statistics graduate planning to dive into data analytics and more!</p> 
 <p align = "center"> At most, I am a creative person, a storyteller, and an artist. </p>
-<p align = "center"> Maybe, with all the data in the world, I can tell you all a cohesive story about it all.</p>
+<p align = "center"> Maybe, with all the data in the world, I can tell you all a story about it all.</p>
 
 <h2 align = "center"> ~About Me~ </h2>
 <p align = "center"> ♦️ They/she ♦️ </p>
