@@ -10,7 +10,7 @@
 <p align = "center"> ♦️ They/she ♦️ </p>
 <p align = "center"> 📈 Degree: B.S. Statistics 📉 </p>
 <p align = "center"> 🧑‍💻 Emphasis: Science 🧑‍💻 </p>
-<p align = "center"> ▶️ Most current solo work: EDA-Lab 📊 </p>
+<p align = "center"> ▶️ Most current work: TCR-Project 📊 </p>
 <p align = "center"> 🤝 Current collab: We-R-Finished ⌛ </p>
 <p align = "center"> ⏺️ Upcoming repo: TBD ⏺️ </p>
 <p align = "center"> 🎨 Hobby artist 🎨 </p>
