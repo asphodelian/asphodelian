@@ -26,7 +26,7 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
  </ul>
 </div>
 
-<h2 align = "center"> ~Language & Tools~ </h2>
+# Language & Tools:
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
