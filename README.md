@@ -1,9 +1,9 @@
 ![welcome sign](https://user-images.githubusercontent.com/125179245/232682841-8da86327-7bc5-4c5c-a8c5-ba44fd04f424.png)
 <h2 align = "center"> ~Gabrielle Salamanca~ </h2>
 
-Welcome to the @asphodelian github! Hope you enjoy your stay as you peruse my repos.
+<p> Welcome to the @asphodelian github! Hope you enjoy your stay as you peruse my repos 👋 </p>
 A statistics graduate planning to dive into data analytics and more! 
-Currenntly working with Professor Tao He for the summer ☀️
+I am currenntly working with Professor Tao He for the summer ☀️
 At most, I am a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story and paint you a picture about it all.
 
 <h2 align = "center"> ~About Me~ </h2>
@@ -23,9 +23,10 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
   <li> ▶️ Most current work: TCR-Project 📊 </li>
   <li> 🤝 Current collab: We-R-Finished ⌛ </li>
   <li> 🎨 Hobby artist 🎨  </li>
-  <li> Languages & Tools: </li>
  </ul>
 </div>
+
+## Langauges & Tools
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
