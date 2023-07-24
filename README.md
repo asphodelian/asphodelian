@@ -23,10 +23,9 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
   <li> ▶️ Most current work: TCR-Project 📊 </li>
   <li> 🤝 Current collab: We-R-Finished ⌛ </li>
   <li> 🎨 Hobby artist 🎨  </li>
+  <li> Languages & Tools: <\li>
  </ul>
 </div>
-
-# Language & Tools:
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -36,7 +35,6 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-
 
 <h2 align = "center"> ~Note~ </h2>
 <p align="center">
