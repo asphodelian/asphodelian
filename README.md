@@ -6,7 +6,7 @@ A statistics graduate planning to dive into data analytics and more!
 I am currenntly working with Professor Tao He for the summer ☀️
 At most, I am a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story and paint you a picture about it all.
 
-<h2 align = "center"> ~About Me~ </h2>
+<h2> ~About Me~ </h2>
 
 <a href="https://github.com/asphodelian/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asphodelian&show_icons=true&theme=jolly" />
@@ -14,6 +14,8 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
 <a href="https://github.com/asphodelian/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asphodelian&layout=compact&theme=jolly&langs_count=8&card_width=320" />
 </a>
+
+<p></p>
 
 <div class = "container">
  <ul class = "mb-0 pl-0 text-center">
@@ -26,7 +28,7 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
  </ul>
 </div>
 
-## Langauges & Tools
+### Langauges & Tools
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -38,13 +40,10 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
 <h2 align = "center"> ~Note~ </h2>
-<p align="center">
-Please do not use my artwork featured on this page for any AI or NFTs! 
-I also do not condone any theft or retracing of my artwork.
-</p>
+<p align="center"> Please do not use my artwork featured on this page for any AI or NFTs! </p>
+<p> I also do not condone any theft or retracing of my artwork.</p>
 
 Find me on ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 
 <h2 align = "center"> Thank you for visiting! </h2>
 
