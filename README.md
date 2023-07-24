@@ -39,8 +39,8 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
-<h2 align = "center"> ~Note~ </h2>
-<p align="center"> Please do not use my artwork featured on this page for any AI or NFTs! </p>
+<h2> ~Note~ </h2>
+<p> Please do not use my artwork featured on this page for any AI or NFTs! </p>
 <p> I also do not condone any theft or retracing of my artwork.</p>
 
 Find me on ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
