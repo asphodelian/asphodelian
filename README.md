@@ -9,7 +9,7 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
 <h2 align = "center"> ~About Me~ </h2>
 
 <a href="https://github.com/asphodelian/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asphodelian&show_icons=true&theme=jolly" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asphodelian&show_icons=true&hide=contribs&theme=jolly" />
 </a>
 <a href="https://github.com/asphodelian/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asphodelian&layout=compact&langs_count=8&card_width=320" />
