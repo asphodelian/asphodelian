@@ -12,7 +12,7 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asphodelian&show_icons=true&theme=jolly" />
 </a>
 <a href="https://github.com/asphodelian/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asphodelian&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asphodelian&layout=compact&theme=jolly&langs_count=8&card_width=320" />
 </a>
 
 <div class = "container">
@@ -30,10 +30,10 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Overleaf]( 	https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
@@ -49,6 +49,8 @@ I also do not condone any theft or retracing of my artwork.
 <h2 align = "center"> Thank you for visiting! </h2>
 
 ![200px minimoji](https://github.com/asphodelian/asphodelian/assets/125179245/b855cc00-2ecd-42b9-89ac-4868a8ae25c3)
+
+Find me on ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!---
 asphodelian/asphodelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
