@@ -7,12 +7,17 @@ Currenntly working with Professor Tao He for the summer ☀️
 At most, I am a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story about it all.
 
 <h2 align = "center"> ~About Me~ </h2>
-♦️ They/she ♦️ 
-📈 Degree: B.S. Statistics 📉 
-🧑‍💻 Emphasis: Science 🧑‍💻
-▶️ Most current work: TCR-Project 📊 
-🤝 Current collab: We-R-Finished ⌛ 
-🎨 Hobby artist 🎨 
+
+<div class = "container">
+ <ul class = "mb-0 pl-0 text-center">
+  <li> ♦️ They/she ♦️  </li>
+  <li> 📈 Degree: B.S. Statistics 📉 </li>
+  <li> 🧑‍💻 Emphasis: Science 🧑‍💻 </li>
+  <li> ▶️ Most current work: TCR-Project 📊 </li>
+  <li> 🤝 Current collab: We-R-Finished ⌛ </li>
+  <li> 🎨 Hobby artist 🎨  </li>
+ </ul>
+</div>
 
 <h2 align = "center"> ~Where to Find Me~ </h2>
 
