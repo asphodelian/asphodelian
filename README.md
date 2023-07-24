@@ -4,7 +4,7 @@
 Welcome to the @asphodelian github! Hope you enjoy your stay as you peruse my repos.
 A statistics graduate planning to dive into data analytics and more! 
 Currenntly working with Professor Tao He for the summer ☀️
-At most, I am a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story about it all.
+At most, I am a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story and paint you a picture about it all.
 
 <h2 align = "center"> ~About Me~ </h2>
 
@@ -18,6 +18,8 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
   <li> 🎨 Hobby artist 🎨  </li>
  </ul>
 </div>
+
+![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=asphodelian&show_icons=true&theme=jolly)
 
 <h2 align = "center"> ~Where to Find Me~ </h2>
 
