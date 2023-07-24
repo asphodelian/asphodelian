@@ -26,13 +26,14 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
  </ul>
 </div>
 
-<h2 align = "center"> ~Where to Find Me~ </h2>
+<h2 align = "center"> ~Language & Tools~ </h2>
 
 <div class = "container">
  <ul class = "mb-0 pl-0 text-center">
-  <li> <a href = "https://data.world/asphodelian"> data.world </a> </li>
-  <li> <a href = "https://public.tableau.com/app/profile/gabrielle.salamanca"> Tableau Public </a> </li>
-  <li> <a href = "https://www.linkedin.com/in/gabrielle-salamanca-082312106/"> LinkedIN </a> </li>
+  <li> ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) </li>
+  <li> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </li>
+  <li> ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) </li>
+  <li> ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) </li>
  </ul>
 </div>
 
