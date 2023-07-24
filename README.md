@@ -23,7 +23,7 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
   <li> ▶️ Most current work: TCR-Project 📊 </li>
   <li> 🤝 Current collab: We-R-Finished ⌛ </li>
   <li> 🎨 Hobby artist 🎨  </li>
-  <li> Languages & Tools: <\li>
+  <li> Languages & Tools: </li>
  </ul>
 </div>
 
