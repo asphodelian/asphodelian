@@ -6,7 +6,7 @@ A statistics graduate planning to dive into data analytics and more!
 I am currenntly working with Professor Tao He for the summer ☀️
 At most, I am a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story and paint you a picture about it all.
 
-<h2> ~About Me~ </h2>
+<h2 align = "center"> ~About Me~ </h2>
 
 <a href="https://github.com/asphodelian/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asphodelian&show_icons=true&theme=jolly" />
