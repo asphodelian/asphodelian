@@ -45,8 +45,6 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
 
 <h2 align = "center"> Thank you for visiting! </h2>
 
-![200px minimoji](https://github.com/asphodelian/asphodelian/assets/125179245/b855cc00-2ecd-42b9-89ac-4868a8ae25c3)
-
 <p align="center">
   <img width="200" height="200" src="https://github.com/asphodelian/asphodelian/assets/125179245/b855cc00-2ecd-42b9-89ac-4868a8ae25c3">
 </p>
