@@ -41,16 +41,17 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
 <h2 align = "center"> ~Note~ </h2>
 <p align="center">
 Please do not use my artwork featured on this page for any AI or NFTs! 
-</p>
-<p align = "center">
 I also do not condone any theft or retracing of my artwork.
 </p>
+
+Find me on ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 <h2 align = "center"> Thank you for visiting! </h2>
 
 ![200px minimoji](https://github.com/asphodelian/asphodelian/assets/125179245/b855cc00-2ecd-42b9-89ac-4868a8ae25c3)
 
-Find me on ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 <!---
 asphodelian/asphodelian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
