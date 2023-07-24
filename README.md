@@ -8,6 +8,10 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
 
 <h2 align = "center"> ~About Me~ </h2>
 
+![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=asphodelian&show_icons=true&theme=jolly)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asphodelian)](https://github.com/asphodelian/github-readme-stats)
+
 <div class = "container">
  <ul class = "mb-0 pl-0 text-center">
   <li> ♦️ They/she ♦️  </li>
@@ -18,8 +22,6 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
   <li> 🎨 Hobby artist 🎨  </li>
  </ul>
 </div>
-
-![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=asphodelian&show_icons=true&theme=jolly)
 
 <h2 align = "center"> ~Where to Find Me~ </h2>
 
