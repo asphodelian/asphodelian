@@ -47,6 +47,10 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
 
 ![200px minimoji](https://github.com/asphodelian/asphodelian/assets/125179245/b855cc00-2ecd-42b9-89ac-4868a8ae25c3)
 
+<p align="center">
+  <img width="200" height="200" src="https://github.com/asphodelian/asphodelian/assets/125179245/b855cc00-2ecd-42b9-89ac-4868a8ae25c3">
+</p>
+
 Find & reach me on ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!---
