@@ -1,20 +1,18 @@
 ![welcome sign](https://user-images.githubusercontent.com/125179245/232682841-8da86327-7bc5-4c5c-a8c5-ba44fd04f424.png)
 <h2 align = "center"> ~Gabrielle Salamanca~ </h2>
 
-<p align = "center"> Welcome to the @asphodelian github! Hope you enjoy your stay as you peruse my repos.</p>
-<p align = "center"> A statistics graduate planning to dive into data analytics and more!</p> 
-<p align = "center"> Currenntly working with Professor Tao He for the summer ☀️</p> 
-<p align = "center"> At most, I am a creative person, a storyteller, and an artist. </p>
-<p align = "center"> Maybe, with all the data in the world, I can tell you all a story about it all.</p>
+Welcome to the @asphodelian github! Hope you enjoy your stay as you peruse my repos.
+A statistics graduate planning to dive into data analytics and more! 
+Currenntly working with Professor Tao He for the summer ☀️
+At most, I am a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story about it all.
 
 <h2 align = "center"> ~About Me~ </h2>
-<p align = "center"> ♦️ They/she ♦️ </p>
-<p align = "center"> 📈 Degree: B.S. Statistics 📉 </p>
-<p align = "center"> 🧑‍💻 Emphasis: Science 🧑‍💻 </p>
-<p align = "center"> ▶️ Most current work: TCR-Project 📊 </p>
-<p align = "center"> 🤝 Current collab: We-R-Finished ⌛ </p>
-<p align = "center"> ⏺️ Upcoming repo: TBD ⏺️ </p>
-<p align = "center"> 🎨 Hobby artist 🎨 </p>
+♦️ They/she ♦️ 
+📈 Degree: B.S. Statistics 📉 
+🧑‍💻 Emphasis: Science 🧑‍💻
+▶️ Most current work: TCR-Project 📊 
+🤝 Current collab: We-R-Finished ⌛ 
+🎨 Hobby artist 🎨 
 
 <h2 align = "center"> ~Where to Find Me~ </h2>
 
