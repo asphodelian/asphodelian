@@ -10,7 +10,7 @@ At most, I am a creative person, a storyteller, and an artist. Maybe, with all t
 
 ![Gabrielle's GitHub stats](https://github-readme-stats.vercel.app/api?username=asphodelian&show_icons=true&theme=jolly)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asphodelian)](https://github.com/asphodelian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asphodelian&layout=donut)](https://github.com/asphodelian/github-readme-stats)
 
 <div class = "container">
  <ul class = "mb-0 pl-0 text-center">
