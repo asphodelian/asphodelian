@@ -24,7 +24,7 @@
   <li> 📈 Degree: B.S. Statistics 📉 </li>
   <li> 🧑‍💻 Emphasis: Science 🧑‍💻 </li>
   <li> ▶️ Most current work: TCR-Project 📊 </li>
-  <li> 🤝 Current collab: We-R-Finished ⌛ </li>
+  <li> 🤝 Recent collab: We-R-Finished ⌛ </li>
   <li> 🎨 Hobby artist 🎨  </li>
  </ul>
 </div>
