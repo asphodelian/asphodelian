@@ -3,7 +3,7 @@
 
 <p> Welcome to the @asphodelian github! Hope you enjoy your stay as you peruse my repos 👋 </p>
 
-<p> A statistics graduate planning to dive into data analytics and more! But, I am a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story and paint you a picture about it all. </p>
+<p> A statistics graduate planning to dive into data analytics and more! As such, I'm currently pursuing my master's in Data Science at SFSU! But, I am a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story and paint you a picture about it all. </p>
 
 <p> Currently, I'm working with Professor Tao He for the summer ☀️ Take a peek of my work so far on TCR-Project! </p>
 
