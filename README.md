@@ -3,9 +3,9 @@
 
 <p> Welcome to the @asphodelian github! Hope you enjoy your stay as you peruse my repos 👋 </p>
 
-<p> A statistics graduate planning to dive into data analytics and more! As such, I'm currently pursuing my master's in Data Science at SFSU! But, I am a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story and paint you a picture about it all. </p>
+<p> A statistics graduate planning to dive into data analytics and more! As such, I'm currently pursuing my master's in Data Science at SFSU! But, I am also a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story and paint you a picture about it all. </p>
 
-<p> Currently, I'm working with Professor Tao He for the summer ☀️ Take a peek of my work so far on TCR-Project! </p>
+<p>I've worked with Professor Tao He for the summer ☀️ Take a peek of my work so far on TCR-Project! </p>
 
 <h2 align = "center"> ~About Me~ </h2>
 
@@ -22,7 +22,7 @@
  <ul class = "mb-0 pl-0 text-center">
   <li> ♦️ They/she ♦️  </li>
   <li> 📈 Degree: B.S. Statistics 📉 </li>
-  <li> 🧑‍💻 Emphasis: Science 🧑‍💻 </li>
+  <li> 🧑‍💻 In progress: Master's in Data Science 🧑‍💻 </li>
   <li> ▶️ Most current work: Lung-Cancer 📊 </li>
   <li> 🤝 Recent collab: We-R-Finished ⌛ </li>
   <li> 🎨 Hobby artist 🎨  </li>
