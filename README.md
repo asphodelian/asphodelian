@@ -5,7 +5,7 @@
 
 <p> A statistics graduate planning to dive into data analytics and more! As such, I'm currently pursuing my master's in Data Science at SFSU! But, I am also a creative person, a storyteller, and an artist. Maybe, with all the data in the world, I can tell you all a story and paint you a picture about it all. </p>
 
-<p>I've worked with Professor Tao He for the summer ☀️ Take a peek of my work so far on TCR-Project! </p>
+<p>I've worked with Professor Tao He for the summer ☀️ Take a peek of my work so far on TCR-Project! As of 2024, I've done some quicktime projects and freelanced for the International Federation of Eating Disorder Dieticians.</p>
 
 <h2 align = "center"> ~About Me~ </h2>
 
