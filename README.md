@@ -23,8 +23,8 @@
   <li> ♦️ They/she ♦️  </li>
   <li> 📈 Degree: B.S. Statistics 📉 </li>
   <li> 🧑‍💻 In progress: Master's in Data Science 🧑‍💻 </li>
-  <li> ▶️ Most current work: [2017-Minneapolis-Police-Stops](https://github.com/asphodelian/2017-Minneapolis-Police-Stops) 📊 </li>
-  <li> 🤝 Recent collab: [We-R-Finished](https://github.com/asphodelian/We-R-Finished) ⌛ </li>
+  <li> ▶️ Most current work: 2017-Minneapolis-Police-Stops 📊 </li>
+  <li> 🤝 Recent collab: We-R-Finished ⌛ </li>
   <li> 🎨 Hobby artist 🎨  </li>
  </ul>
 </div>
