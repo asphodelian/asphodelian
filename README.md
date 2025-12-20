@@ -21,9 +21,9 @@
 <div class = "container">
  <ul class = "mb-0 pl-0 text-center">
   <li> ♦️ They/she ♦️  </li>
-  <li> 📈 Degree: B.S. Statistics 📉 </li>
-  <li> 🧑‍💻 In progress: Master's in Data Science 🧑‍💻 </li>
-  <li> ▶️ Most current work: TCR-Project 📊 </li>
+  <li> 📈 Bachelor Degree: Statistics 📉 </li>
+  <li> 🎓 Master Degree: Data Science 🎓 </li>
+  <li> ▶️ Most current work: Time-is-Golden 📊 </li>
   <li> 🤝 Recent collab: CSC Wind Project ⌛ </li>
   <li> 🎨 Hobby artist 🎨  </li>
  </ul>
