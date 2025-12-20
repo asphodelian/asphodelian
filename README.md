@@ -5,7 +5,7 @@
 
 <p> A graduating Statistical Data Scientist diving into data analytics and more! After 8 long years at SFSU, I've finished my bachelor's in Statistics in Spring 2023, and finally I've finished my master's in Statistical Data Science this Fall 2025. I'm more than ready to step into 2026 with both my degrees in hand, but also at my core, I'm a creative person, a storyteller, and an artist. With all the data in the world, I hope to tell you all a story and paint you a picture about what it entails.</p>
 
-<p>In 2024, I've done some quicktime projects and freelanced for the International Federation of Eating Disorder Dieticians. I've worked with Professor Tao He from my last spring semester in my bachelor's to the summer, and I've worked with her again for my Culminating Experience for my master's ☀️ Take a peek of my finished work at [TCR-Project](https://github.com/asphodelian/TCR-Project)! </p>
+<p>In 2024, I've done some quicktime projects and freelanced for the International Federation of Eating Disorder Dieticians. I've worked with Professor Tao He from my last spring semester in my bachelor's to the summer, and I've worked with her again for my Culminating Experience for my master's ☀️ Take a peek of my finished work at TCR-Project! </p>
 
 <h2 align = "center"> ~About Me~ </h2>
 
