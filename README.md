@@ -5,9 +5,9 @@
 
 <p> A Statistical Data Scientist diving into data analytics and more! After 8 long years at SFSU, I've finished my bachelor's in Statistics in Spring 2023, and finally I've finished my master's in Statistical Data Science in Fall 2025. I'm more than ready to step into 2026 with both my degrees in hand, but also at my core, I'm a creative person, a storyteller, and an artist. With all the data in the world, I hope to tell you all a story and paint you a picture about what it entails.</p>
 
-<p>In 2024, I've done some quicktime projects and freelanced for the International Federation of Eating Disorder Dieticians. I've worked with Professor Tao He from my last spring semester in my bachelor's to the summer, and I've worked with her again for my <a href="[https://github.com/asphodelian/TCR-Project]">Culminating Experience</a> for my master's.</p>
+<p>In 2024, I've done some quicktime projects and freelanced for the International Federation of Eating Disorder Dieticians. I've worked with Professor Tao He from my last spring semester in my bachelor's to the summer, and I've worked with her again for my [Culminating Experience](https://github.com/asphodelian/TCR-Project) for my master's.</p>
 
-<p>Now in 2026, I've delved into the robotics world as an operator. For six months, I worked as a Research & Development Operator with a Stealth Robotics Startup; and for a month, I was a Teleops Operator at Zoox. It didn't pan out as expected, but now I'm on the job hunt again and decided to launch a project I've been wanting to dive into between the period of an R&D and Teleops Operator! ☀️ Take a peek of my WIP at <a href="[https://github.com/asphodelian/R-To-Python]">R-To-Python</a>! </p>
+<p>Now in 2026, I've delved into the robotics world as an operator. For six months, I worked as a Research & Development Operator with a Stealth Robotics Startup; and for a month, I was a Teleops Operator at Zoox. It didn't pan out as expected, but now I'm on the job hunt again and decided to launch a project I've been wanting to dive into between the period of an R&D and Teleops Operator! ☀️ Take a peek of my WIP at [R-To-Python](https://github.com/asphodelian/R-To-Python)! </p>
 
 <h2 align = "center"> ~About Me~ </h2>
 
